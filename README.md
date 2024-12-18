@@ -1,6 +1,7 @@
 # BIA-810 Final Project presentation
 
-The repository contains the two subparts(as submodules) of the final submission of the "Asynchorous video analyses of candidate interviews".
+The repository contains the two subparts(as submodules) of the final submission of the "Asynchorous video analyses of candidate interviews".    
+[🔗link to our presentation](https://docs.google.com/presentation/d/1TbBBb_12T4mL9diZPfX0qzwriL9REFvcQzV18LQBpAI/edit?usp=sharing).
 
 ## Project Contributors
 <a href="https://github.com/dunkeln"> <img src="https://avatars.githubusercontent.com/dunkeln" width="60px;" alt="dunkeln"/></a>
