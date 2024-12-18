@@ -2,6 +2,12 @@
 
 The repository contains the two subparts(as submodules) of the final submission of the "Asynchorous video analyses of candidate interviews".
 
+## Project Contributors
+<a href="https://github.com/dunkeln"> <img src="https://avatars.githubusercontent.com/dunkeln" width="60px;" alt="dunkeln"/></a>
+<a href="https://github.com/Priyanshusbisen"> <img src="https://avatars.githubusercontent.com/Priyanshusbisen" width="60px;" alt="Priyanshusbisen"/></a>
+<a href="https://github.com/SriLasya09"> <img src="https://avatars.githubusercontent.com/SriLasya09" width="60px;" alt="SriLasya09"/></a>
+
+
 ## Application Demo
 
 https://github.com/user-attachments/assets/f00997f9-740d-45f3-bcd5-a9f5bcbf28bb
