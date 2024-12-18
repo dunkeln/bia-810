@@ -1,0 +1,9 @@
+[submodule "add"]
+	path = add
+	url = git@github.com:dunkeln/bia-webapp.git
+[submodule "app"]
+	path = bia-webapp
+	url = git@github.com:dunkeln/bia-webapp.git
+[submodule "backend"]
+	path = Bia-Backend
+	url = git@github.com:Priyanshusbisen/Bia-Backend.git
